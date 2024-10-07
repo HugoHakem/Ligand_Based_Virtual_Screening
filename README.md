@@ -57,16 +57,25 @@ pip install networkx
 ```
 
 ## References
-1. Gimeno, Aleix, et al. "The Light and Dark Sides of Virtual Screening: What Is There to Know?" International Journal of Molecular Sciences, vol. 20, no. 6, March 2019, p. 1375. DOI.
-2. Rohrer, Sebastian G., and Knut Baumann. "Maximum Unbiased Validation (MUV) Data Sets for Virtual Screening Based on PubChem
-Bioactivity Data." Journal of Chemical Information and Modeling, vol. 49, no. 2, Feb. 2009, pp. 169–184. DOI.
-3. Xia, Jie, et al. "Benchmarking methods and data sets for ligand enrichment assessment in virtual screening." Methods, vol. 71, Jan. 2015, pp. 146–157. DOI.
-4. MoleculeNet: Datasets.
-5. "How to explain the ROC AUC score and ROC curve?" Evidently AI, consulted 25 April 2024. Link.
-6. "6.1: Molecular Descriptors". Chemistry LibreTexts, 26 Oct. 2019. Link.
-7. Li, J., Cai, D., and He, X. "Learning Graph-Level Representation for Drug Discovery." arXiv, 15 Sept. 2017. Link.
-8. Wang, C., Deng, C., and Wang, S. "Imbalance-XGBoost: Leveraging Weighted and Focal Losses for Binary Label-Imbalanced
-9. Classification with XGBoost." 2019.
-"Introduction to Scaffold Splitting". Oloren AI, consulted 25 April 2024. Link.
-10. Hu, W. et al., "Open Graph Benchmark: Datasets for Machine Learning on Graphs", arXiv preprint arXiv:2005.00687, 2020.
-11. Li, P. et al., "TrimNet: learning molecular representation from triplet messages for biomedicine", Briefings in Bioinformatics, Nov. 2020, DOI.
+[1] Gimeno, Aleix, et al. « The Light and Dark Sides of Virtual Screening: What Is There to Know? » International Journal of Molecular Sciences, vol. 20, no 6, march 2019, p. 1375. PubMed Central, https://doi.org/10.3390/ijms20061375].
+<br>
+[2] Rohrer, Sebastian G., et Knut Baumann. « Maximum Unbiased Validation (MUV) Data Sets for Virtual Screening Based on PubChem Bioactivity Data ». Journal of Chemical Information and Modeling, vol. 49, no 2, february 2009, p. 169-84. DOI.org (Crossref), https://doi.org/10.1021/ci8002649.
+<br>
+[3] Xia, Jie, et al. « Benchmarking methods and data sets for ligand enrichment assessment in virtual screening ». Methods, vol. 71, january 2015, p. 146-57. ScienceDirect, https://doi.org/10.1016/j.ymeth.2014.11.015
+<br>
+[4] Datasets. https://moleculenet.org/datasets-1. Consulted 4 april 2024.
+<br>
+[5] « How to explain the ROC AUC score and ROC curve? » Consulté le: 25 avril 2024. [web]. Available: https://www.evidentlyai.com/classification-metrics/explain-roc-curve
+<br>
+[6] « 6.1: Molecular Descriptors ». Chemistry LibreTexts, 26 october 2019, https://chem.libretexts.org/Courses/Intercollegiate_Courses/Cheminformatics/06%3A_Molecular_Similarity/6.01%3A_Molecular_Descriptors.
+<br>
+[7] J. Li, D. Cai, et X. He, « Learning Graph-Level Representation for Drug Discovery ». arXiv, 15 septembre 2017. Consulted: 25 april 2024. [Web] Available: http://arxiv.org/abs/1709.03741
+<br>
+[8] C. Wang, C. Deng, et S. Wang, « Imbalance-XGBoost: Leveraging Weighted and Focal Losses for Binary Label-Imbalanced Classification with XGBoost». 2019.
+<br>
+[9] « Introduction to Scaffold Splitting - Oloren AI ». Consulted: 25 april 2024. [Web]. Available: https://www.oloren.ai/blog/scaff-split
+<br>
+[10] W. Hu et al., « Open Graph Benchmark: Datasets for Machine Learning on Graphs », arXiv preprint arXiv:2005.00687, 2020.
+<br>
+[11] P. Li et al., « TrimNet: learning molecular representation from triplet messages for biomedicine », Briefings in Bioinformatics, nov. 2020, doi: 10.1093/bib/bbaa266.
+[12] « Supports Fidle - En ligne ». Cloud UGA, https://cloud.univ-grenoble-alpes.fr/s/wxCztjYBbQ6zwd6. Consulted on April, 27th 2024.
