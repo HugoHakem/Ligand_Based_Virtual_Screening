@@ -1,5 +1,7 @@
 # Efficacy Comparison of Descriptor Modeling and Graph Modeling for Ligand Based Virtual Screening
 
+For a quick project overview, please refer to the pdf.
+
 ## Author
 Hugo Hakem, MEng BioE '23-24
 
